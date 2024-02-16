@@ -1,4 +1,4 @@
-const kekka = ["大吉", "小吉", "吉", "中吉", "凶", "大凶"];
+const kekka = ["大吉", "吉", "中吉", "凶", "大凶"];
 const omikuji = $("#omikuji");
 const btn = $("#btn");
 const comment = $("#comment");
